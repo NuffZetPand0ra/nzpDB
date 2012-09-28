@@ -1,8 +1,8 @@
 # nzpDB
-## Object oriented database class to use in [my nzpLoader framework][loader].
+## Object oriented database class to use in my [nzpLoader][] framework.
 
 More will come very soon!  
 I need to code now :D
 
 
-[loader]: https://github.com/ "nzpLoader"
+[nzpLoader]: https://github.com/ "nzpLoader"
